@@ -1,0 +1,81 @@
+C:\Users\Егор\Desktop\C#\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\C#\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\C#\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\C#\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\C#\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\C#\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\C#\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\C#\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\C#\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Project Lab2 — копия — копия — копия — копия\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Final Lab\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Final Lab Моя\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Егор\Desktop\Final Lab V1\Excel\Excel\obj\Debug\Excel.pdb
